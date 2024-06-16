@@ -1,6 +1,8 @@
 body {
+  height: auto;
+  width: auto;
   background-image: url(assets/Home.png);
-  background-size: cover;
+  background-size: auto;
   background-repeat: no-repeat;
 }
 .card:hover {

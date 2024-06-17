@@ -8,3 +8,7 @@ body {
 .card:hover {
   background-color: #f0a55e;
 }
+
+.container {
+  user-select: none;
+}

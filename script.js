@@ -1,6 +1,6 @@
 function showWhatsAppAlert() {
   const whatsappLink1 = 'http://wa.me/62882006385928';
-  const whatsappLink2 = 'http://wa.me/6285227371518';
+  const whatsappLink2 = 'http://wa.me/6283878666225';
 
   // Membuat elemen div untuk menampilkan alert
   const alertDiv = document.createElement('div');

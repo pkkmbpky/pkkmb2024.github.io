@@ -12,3 +12,13 @@ body {
 .container {
   user-select: none;
 }
+
+#logo {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  border: 5px solid #f0a55e;
+  background-image: url('assets/Logo.jpg');
+  background-size: cover;
+  background-position: center;
+}
